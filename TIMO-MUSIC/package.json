@@ -4,7 +4,7 @@
   "main": "index.js",
   "dependencies": {
     "discord.js": "^12.3.1",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "ffmpeg": "^0.0.4",
     "ffmpeg-static": "^4.2.7",
     "lyrics-finder": "^21.4.0",
